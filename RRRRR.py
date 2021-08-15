@@ -701,4 +701,4 @@ if tlps == "5":
             b+=1    
             print(f"\r \033[32mGOOD: {h} \033[31;1mBAD: {b} \033[33;1mCHECKPOINT: {s} \033[31;1mBLOCK: {block}",end='')
 if tlps == "7":
-        os.system('git clone https://github.com/TURKNNEJDJDJD/RRRRRRRRR ; cd RRRRRRRRR ;python2 RR1.py')
+        os.system('git clone https://github.com/TURKNNEJDJDJD/RRRRRRRRR ; cd RRRRRRRRR ;python2 RR11.py')
